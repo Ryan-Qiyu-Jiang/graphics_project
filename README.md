@@ -8,7 +8,7 @@ UW CS488: Introduction to Computer Graphics Final Project
 
 <a href="https://youtu.be/rW262EXv3b0
 " target="_blank"><img src="https://img.youtube.com/vi/rW262EXv3b0/hqdefault.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="480" height="360" border="0" /></a>
 
 <!-- blank line -->
 
