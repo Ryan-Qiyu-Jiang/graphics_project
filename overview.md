@@ -5,9 +5,11 @@
 UW CS488: Introduction to Computer Graphics Final Project
 
 <!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://youtu.be/rW262EXv3b0" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+
+<a href="https://youtu.be/rW262EXv3b0
+" target="_blank"><img src="https://img.youtube.com/vi/rW262EXv3b0/hqdefault.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 <!-- blank line -->
 
 Just a simple example of how pose estimation can be used to make computer graphics animations a bit easier.
